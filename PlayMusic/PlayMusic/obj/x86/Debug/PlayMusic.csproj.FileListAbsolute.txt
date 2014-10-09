@@ -1,0 +1,13 @@
+C:\Users\ytc\AppData\Local\Temporary Projects\PlayMusic\bin\Debug\PlayMusic.exe
+C:\Users\ytc\AppData\Local\Temporary Projects\PlayMusic\bin\Debug\PlayMusic.pdb
+C:\Users\ytc\AppData\Local\Temporary Projects\PlayMusic\bin\Debug\NAudio.dll
+C:\Users\ytc\AppData\Local\Temporary Projects\PlayMusic\obj\x86\Debug\PlayMusic.csprojResolveAssemblyReference.cache
+C:\Users\ytc\AppData\Local\Temporary Projects\PlayMusic\obj\x86\Debug\PlayMusic.exe
+C:\Users\ytc\AppData\Local\Temporary Projects\PlayMusic\obj\x86\Debug\PlayMusic.pdb
+C:\Users\ytc\Documents\GitHub\Routines\PlayMusic\PlayMusic\bin\Debug\PlayMusic.exe.config
+C:\Users\ytc\Documents\GitHub\Routines\PlayMusic\PlayMusic\bin\Debug\PlayMusic.exe
+C:\Users\ytc\Documents\GitHub\Routines\PlayMusic\PlayMusic\bin\Debug\PlayMusic.pdb
+C:\Users\ytc\Documents\GitHub\Routines\PlayMusic\PlayMusic\bin\Debug\NAudio.dll
+C:\Users\ytc\Documents\GitHub\Routines\PlayMusic\PlayMusic\obj\x86\Debug\PlayMusic.csprojResolveAssemblyReference.cache
+C:\Users\ytc\Documents\GitHub\Routines\PlayMusic\PlayMusic\obj\x86\Debug\PlayMusic.exe
+C:\Users\ytc\Documents\GitHub\Routines\PlayMusic\PlayMusic\obj\x86\Debug\PlayMusic.pdb
