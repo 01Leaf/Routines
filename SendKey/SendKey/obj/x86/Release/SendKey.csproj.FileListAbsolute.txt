@@ -1,0 +1,7 @@
+C:\Users\ytc\Documents\GitHub\Routines\SendKey\SendKey\bin\Release\SendKey.exe
+C:\Users\ytc\Documents\GitHub\Routines\SendKey\SendKey\bin\Release\SendKey.pdb
+C:\Users\ytc\Documents\GitHub\Routines\SendKey\SendKey\bin\Release\InputSimulator.dll
+C:\Users\ytc\Documents\GitHub\Routines\SendKey\SendKey\obj\x86\Release\SendKey.csprojResolveAssemblyReference.cache
+C:\Users\ytc\Documents\GitHub\Routines\SendKey\SendKey\obj\x86\Release\SendKey.exe
+C:\Users\ytc\Documents\GitHub\Routines\SendKey\SendKey\obj\x86\Release\SendKey.pdb
+C:\Users\ytc\Documents\GitHub\Routines\SendKey\SendKey\bin\Release\SendKey.exe.config

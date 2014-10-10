@@ -28,7 +28,7 @@ namespace PlayMusic
                 {
                     File.Move(filepath, "mp3.txt");
                 }
-                
+
             }
 
             AZUSA.Start();
@@ -37,6 +37,10 @@ namespace PlayMusic
 
             string filename;
             WaveStream mp3Reader;
+
+            waveOutDevice = new WaveOut();
+            waveOutDevice.PlaybackStopped += new EventHandler<StoppedEventArgs>(waveOutDevice_PlaybackStopped);
+
             if (playlist.Count() > 0)
             {
                 while (true)
@@ -86,20 +90,23 @@ namespace PlayMusic
         static void PLAY(string file)
         {
             //Declarations required for audio out and the MP3 stream
-
+            
             AudioFileReader audioFileReader;
-            waveOutDevice = new WaveOut();
+            
             audioFileReader = new AudioFileReader(file);
             waveOutDevice.Init(audioFileReader);
             waveOutDevice.Play();
-            waveOutDevice.PlaybackStopped += new EventHandler<StoppedEventArgs>(waveOutDevice_PlaybackStopped);
-
+            
+            EXITFLAG = false;
             while (true)
             {
-                if (!EXITFLAG)
+                if (EXITFLAG)
                 {
-                    Thread.Sleep(1000);
+                    break;
                 }
+
+                Thread.Sleep(1000);
+
             }
         }
 
