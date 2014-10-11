@@ -154,7 +154,7 @@ namespace SendKey
                     InputSimulator.SimulateKeyUp(VirtualKeyCode.SHIFT);
                 }
 
-                Console.Read();
+       
                
             }
         }
