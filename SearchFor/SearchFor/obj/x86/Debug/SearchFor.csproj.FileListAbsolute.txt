@@ -6,3 +6,4 @@ C:\Users\ytc\Documents\GitHub\Routines\SearchFor\SearchFor\bin\Debug\SearchFor.e
 C:\Users\ytc\Documents\GitHub\Routines\SearchFor\SearchFor\bin\Debug\SearchFor.pdb
 C:\Users\ytc\Documents\GitHub\Routines\SearchFor\SearchFor\obj\x86\Debug\SearchFor.exe
 C:\Users\ytc\Documents\GitHub\Routines\SearchFor\SearchFor\obj\x86\Debug\SearchFor.pdb
+C:\Users\ytc\Documents\GitHub\Routines\SearchFor\SearchFor\obj\x86\Debug\SearchFor.csprojResolveAssemblyReference.cache

@@ -14,18 +14,37 @@ namespace SearchFor
         static void Main(string[] args)
         {
             string target = "*.mp3";
-            if (args.Count() > 0)
+            string dir = "";
+            if (args.Count()>0)
             {
-                target = args[0].Trim();
+                if (args[0].Contains("\\"))
+                {
+                    target = args[0].Split('\\').Last().Trim();
+                    dir = args[0].Replace(target, "").Trim();
+                }
+                else
+                {
+
+                    target = args[0].Trim();
+                }
             }
 
-            
 
-            foreach (string drive in Directory.GetLogicalDrives())
-            {               
-                
-                Search(drive,target);
-                
+
+            if (dir == "")
+            {
+
+                foreach (string drive in Directory.GetLogicalDrives())
+                {
+
+                    Search(drive, target);
+
+                }
+
+            }
+            else
+            {
+                Search(dir, target);
             }
 
             string resultfile=target.Split('/').Last().Replace("*","").Trim('.')+".txt";
