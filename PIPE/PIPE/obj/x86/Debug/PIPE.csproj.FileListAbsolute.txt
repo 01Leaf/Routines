@@ -1,0 +1,5 @@
+C:\Users\ytc\Documents\GitHub\Routines\PIPE\PIPE\bin\Debug\PIPE.exe.config
+C:\Users\ytc\Documents\GitHub\Routines\PIPE\PIPE\bin\Debug\PIPE.exe
+C:\Users\ytc\Documents\GitHub\Routines\PIPE\PIPE\bin\Debug\PIPE.pdb
+C:\Users\ytc\Documents\GitHub\Routines\PIPE\PIPE\obj\x86\Debug\PIPE.exe
+C:\Users\ytc\Documents\GitHub\Routines\PIPE\PIPE\obj\x86\Debug\PIPE.pdb
